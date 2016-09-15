@@ -10,7 +10,7 @@ This is my first project for CSCI E-15. It is a static page that will house link
 Static pages don't need demos silly.
 
 ## Misc
-Pretty sure we're ok with out anything here. Also it turns out there's no images of me made in the last five years.
+Pretty sure we're ok with out anything here. Also it turns out there's no images of me made in the last five years. \#ThingsILearnedDoingThis
 
 ## Outside code
 Not this time.
