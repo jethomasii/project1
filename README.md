@@ -8,7 +8,7 @@ This is my first project for CSCI E-15. It is a static page that will house link
 
 ## Demo
 Static pages don't need demos silly.
-Whoops, forgot to read the project descritpion, coming momentarily.
+Whoops, forgot to read the project descritpion, https://vimeo.com/182886590.
 
 ## Misc
 Pretty sure we're ok with out anything here. Also it turns out there's no images of me made in the last five years. \#ThingsILearnedDoingThis
