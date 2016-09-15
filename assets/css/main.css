@@ -9,16 +9,25 @@
     
 */
 
+a {
+    color: #b9b9b9;
+}
+
 body {
+    padding-left: 04%;
+    padding-top: 04%;
+    padding-right: 20%;
     color: #b9b9b9;
     background: url(http://localhost/project1/assets/images/snowatthelake.jpg) no-repeat center;
 }
 
 #picture {
+    float: left;
+    text-align: center;
+    padding-left: 04%;
+    padding-right: 04%;
+    padding-top: 01%;
+    padding-bottom: 02%;
     width: 600;
-    background: rgba(0, 0, 0, 00.65);
-}
-
-#projects {
-    background: rgba(0, 0, 0, 00.65);
+    background: rgba(0, 0, 0, 00.60);
 }
